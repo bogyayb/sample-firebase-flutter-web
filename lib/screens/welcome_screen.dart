@@ -68,7 +68,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 AnimatedTextKit(
                   animatedTexts: [
                     TypewriterAnimatedText(
-                      'Locksy!',
+                      'Locksy by GitHub! 😍',
                       textStyle: const TextStyle(
                         fontSize: 32.0,
                         fontWeight: FontWeight.w700,
