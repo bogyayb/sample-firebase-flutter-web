@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1098102265660",
+    "project_id": "flash-chat-3a1aa",
+    "storage_bucket": "flash-chat-3a1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098102265660:android:9f97186d88413d6bfc3039",
+        "android_client_info": {
+          "package_name": "co.bogyayb.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098102265660-59hrl48reh2tfv77aov657onll39c4ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFidVmUIvKzAzLQQDjGk5hEgV5QUffYu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098102265660-59hrl48reh2tfv77aov657onll39c4ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098102265660-k30cj9vbf7jb04rkcm07h12sjkdv20qn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.bogyayb.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
