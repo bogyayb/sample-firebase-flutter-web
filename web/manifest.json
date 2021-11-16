@@ -1,11 +1,11 @@
 {
-    "name": "p15_flash_chat_flutter_new",
-    "short_name": "p15_flash_chat_flutter_new",
+    "name": "Flash Chat",
+    "short_name": "Flash Chat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "Flutter test app to use Firebase, Github with Flutter Web.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
